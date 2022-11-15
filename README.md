@@ -1,2 +1,2 @@
 # euler
-Project euler stuff
+Project euler stuff.
