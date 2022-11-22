@@ -1,0 +1,15 @@
+C:\repos\euler\euler2\bin\Debug\net7.0\euler2.exe
+C:\repos\euler\euler2\bin\Debug\net7.0\euler2.deps.json
+C:\repos\euler\euler2\bin\Debug\net7.0\euler2.runtimeconfig.json
+C:\repos\euler\euler2\bin\Debug\net7.0\euler2.dll
+C:\repos\euler\euler2\bin\Debug\net7.0\euler2.pdb
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.csproj.AssemblyReference.cache
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.AssemblyInfoInputs.cache
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.AssemblyInfo.cs
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.csproj.CoreCompileInputs.cache
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.dll
+C:\repos\euler\euler2\obj\Debug\net7.0\refint\euler2.dll
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.pdb
+C:\repos\euler\euler2\obj\Debug\net7.0\euler2.genruntimeconfig.cache
+C:\repos\euler\euler2\obj\Debug\net7.0\ref\euler2.dll
